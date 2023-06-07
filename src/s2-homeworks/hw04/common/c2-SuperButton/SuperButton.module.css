@@ -2,15 +2,45 @@
 }
 
 .disabled {
+    height: 30px;
+    width: 133px;
+    left: 574px;
+    top: 1573px;
+    border-radius: 3px;
+    padding: 5px 24px 5px 24px;
+    background: #004D99;
+
+
 }
 
 .secondary {
+    height: 30px;
+    width: 133px;
+    left: 24px;
+    top: 5px;
+
 }
 
 .default {
+    height: 30px;
+    width: 132px;
+    left: 574px;
+    top: 1465px;
+    border-radius: 3px;
+    padding: 5px 24px 5px 24px;
+    background: #0066CC;
+
 }
 
 .red {
+    height: 30px;
+    width: 132px;
+    left: 574px;
+    top: 1465px;
+    border-radius: 3px;
+    padding: 5px 24px 5px 24px;
+    background: #CC1439;
+
 }
 
 .default:hover {
